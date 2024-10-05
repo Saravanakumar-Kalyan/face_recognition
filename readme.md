@@ -39,6 +39,8 @@ This project implements a face recognition-based attendance system using Python.
 3. Install the required packages:
     ```bash
     pip install -r requirements.txt
+    
+4. For installing dlib on windows refer to this [link](https://github.com/z-mahmud22/Dlib_Windows_Python3.x)
 
 ## Usage
 1. Run the script to capture images:
