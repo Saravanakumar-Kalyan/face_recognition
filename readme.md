@@ -26,7 +26,7 @@ This project implements a face recognition-based attendance system using Python.
    git clone https://github.com/Saravanakumar-Kalyan/face_recognition.git
    ```
    ```bash
-   cd face-recognition-attendance-system
+   cd face_recognition
    ```
 2. Create a Conda environment and activate it:
     ```bash
