@@ -24,11 +24,15 @@ This project implements a face recognition-based attendance system using Python.
 
    ```bash
    git clone https://github.com/your-repository/face-recognition-attendance-system.git
+   ```
+   ```bash
    cd face-recognition-attendance-system
    ```
 2. Create a Conda environment and activate it:
     ```bash
     conda create --name face-recognition-env python=3.9
+    ```
+    ```bash
     conda activate face-recognition-env
     ```
 
