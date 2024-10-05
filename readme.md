@@ -23,7 +23,7 @@ This project implements a face recognition-based attendance system using Python.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-repository/face-recognition-attendance-system.git
+   git clone https://github.com/Saravanakumar-Kalyan/face_recognition.git
    ```
    ```bash
    cd face-recognition-attendance-system
